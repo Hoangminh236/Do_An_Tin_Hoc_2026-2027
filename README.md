@@ -3,8 +3,6 @@
 # Huynh_Trong_Nghia
 # DH52400660
 
-import pypandoc
-content = """# Checklist dự án quản lý thư viện
 
 | Tuần | Checklist |
 |---:|---|
@@ -18,8 +16,3 @@ content = """# Checklist dự án quản lý thư viện
 | 8 | - [ ] CTDL mới<br>- [ ] Tích hợp<br>- [ ] Demo |
 | 9 | - [ ] Unit test<br>- [ ] Bảng so sánh<br>- [ ] User manual |
 | 10 | - [ ] Báo cáo<br>- [ ] Video<br>- [ ] Slide<br>- [ ] Nộp + ký |
-"""
-
-output_path = "/mnt/data/README.md"
-pypandoc.convert_text(content, "md", format="md", outputfile=output_path, extra_args=["--standalone"])
-print(f"Đã tạo file: {output_path}")
