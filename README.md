@@ -6,7 +6,7 @@
 
 | Tuần | Checklist |
 |---:|---|
-| 1 | - [x] Repo Git<br>- [x] SRS.pdf<br>- [ ] Cấu trúc thư mục |
+| 1 | - [x] Repo Git<br>- [x] SRS.pdf<br>- [x] Cấu trúc thư mục |
 | 2 | - [x] Design.pdf<br>- [ ] Sơ đồ lớp<br>- [ ] Định nghĩa struct |
 | 3 | - [ ] AVL<br>- [ ] BST<br>- [ ] Test quản lý sách |
 | 4 | - [ ] Hash Table<br>- [ ] Test quản lý độc giả |
