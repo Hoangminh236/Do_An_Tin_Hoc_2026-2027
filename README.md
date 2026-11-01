@@ -1,3 +1,6 @@
+# Chương Trình Quản Lý Thư Viện (C++)
+
+Đồ án Tin học. Học kỳ I (2026-2027). Giảng viên: Lương An Vinh.
 # Nguyen_Hoang_Minh
 # DH52400644
 # Huynh_Trong_Nghia
@@ -6,7 +9,7 @@
 
 | Tuần | Checklist |
 |---:|---|
-| 1 | - [x] Repo Git<br>- [x] SRS.pdf<br>- [x] Cấu trúc thư mục |
+| 1 | - [ ] Repo Git [x] SRS.pdf  [x] Cấu trúc thư mục |
 | 2 | - [x] Design.pdf<br>- [ ] Sơ đồ lớp<br>- [ ] Định nghĩa struct |
 | 3 | - [ ] AVL<br>- [ ] BST<br>- [ ] Test quản lý sách |
 | 4 | - [ ] Hash Table<br>- [ ] Test quản lý độc giả |
